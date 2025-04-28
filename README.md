@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 ## 與我聯繫：
 
 <p align="left">
-<!--
-  <a href="https://discord.gg/741299253200289834" target="_blank">
--->  
-  <a href="還沒搞" target="_blank">
+  <a href="https://discordapp.com/users/741299253200289834" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/>
   </a>
   <a href="mailto:haley80208@gmail.com" target="_blank">
