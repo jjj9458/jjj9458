@@ -39,22 +39,22 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" height="40"/>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="max-width:100%;">
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40"/>
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width:100%;">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
   </a>
   <a href="https://ifttt.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="40"/>
+    <img height="40" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="max-width:100%;">
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
   </a>
   <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40"/>
+    <img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="max-width:100%;">
   </a>
 </p>
 
