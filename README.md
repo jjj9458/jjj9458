@@ -71,4 +71,10 @@ Here are some ideas to get you started:
   <a href="申請中" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
-</p>
+</p>  
+
+ ### 聲明
+• 我承諾贊助款將優先用於維持3~6個月內的伺服器運作。    
+• 月結餘額則繼續貢獻給[台灣運彩](https://article.sportslottery.com.tw/)。    
+• 贊助行為屬於自願性支持，並非購買商品或交換服務，若平台不支援原則上無法取消或退還，請在確認金額與意願後再行操作。  
+• 若因不可抗力因素（如伺服器中斷、平台維護等）影響使用權益，亦不構成退費依據。  
