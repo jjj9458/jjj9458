@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 與我聯繫：
 
 <p align="left">
-  <a href="mailto:haley80208@gmail.com" target="_blank">
+  <a href="mailto:jjj80208@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" />
   </a>
   <a href="https://discordapp.com/users/741299253200289834" target="_blank">
