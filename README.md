@@ -65,15 +65,19 @@ Here are some ideas to get you started:
 ## 贊助支持：
 
 <p align="left">
-  <a href="申請中" target="_blank">
+<p align="left">
+  <a href="https://p.ecpay.com.tw/B651285" target="_blank">
+    <img src="https://payment.ecpay.com.tw/Upload/QRCode/202504/QRCode_f581a638-4852-44ad-b863-b47aff0fa1aa.png" height="70"/>
     <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" />
   </a>
+<br>
   <a href="申請中" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
 </p>  
 
  ### 聲明
+• 所有工具除非平台本身投放，或有另外說明，將不會主動放置任何廣告
 • 我承諾贊助款將優先用於維持3~6個月內的伺服器運作。    
 • 月結餘額則繼續貢獻給[台灣運彩](https://article.sportslottery.com.tw/)。    
 • 贊助行為屬於自願性支持，並非購買商品或交換服務，若平台不支援原則上無法取消或退還，請在確認金額與意願後再行操作。  
