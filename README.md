@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 ## 與我聯繫：
 
 <p align="left">
-  <a href="https://discordapp.com/users/741299253200289834" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/>
-  </a>
   <a href="mailto:haley80208@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" />
   </a>
+  <a href="https://discordapp.com/users/741299253200289834" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/>
+  </a>
+<!--  
   <a href="mailto:haley80208@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYumYk-3gD1-vd6bCRYrAr9FeiAHC-BKDHw&s" alt="其他圖示" height="40" />
   </a>
+-->
 </p>
 
 &#8203;  &#8203;  
@@ -64,9 +66,9 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="申請中" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+    <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" />
   </a>
   <a href="申請中" target="_blank">
-    <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
 </p>
