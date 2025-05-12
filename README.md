@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="mailto:haley80208@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" /></a>
   <a href="https://discordapp.com/users/741299253200289834" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/></a>
 <!--  
   <a href="mailto:haley80208@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYumYk-3gD1-vd6bCRYrAr9FeiAHC-BKDHw&s" alt="其他圖示" height="40" />
@@ -41,23 +39,17 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="max-width:100%;"></a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width:100%;"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"></a>
   <a href="https://ifttt.com/" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="max-width:100%;"></a>
   <a href="https://www.java.com/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></a>
   <a href="https://unity.com/" target="_blank">
-    <img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="max-width:100%;">
-  </a>
+    <img height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="max-width:100%;"></a>
 </p>
 
 &#8203;  &#8203;  
@@ -67,13 +59,11 @@ Here are some ideas to get you started:
 <p align="left">
 <p align="left">
   <a href="https://p.ecpay.com.tw/B651285" target="_blank">
-    <img src="https://payment.ecpay.com.tw/Upload/QRCode/202504/QRCode_f581a638-4852-44ad-b863-b47aff0fa1aa.png" height="70"/>
-    <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" />
-  </a>
+    <img src="https://payment.ecpay.com.tw/Upload/QRCode/202504/QRCode_f581a638-4852-44ad-b863-b47aff0fa1aa.png" height="70"/></a>
+    <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" /></a>
 <br>
   <a href="申請中" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>  
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>  
 </p>      
 
 [也歡迎定期定額投餵 :)](https://pay.ecpay.com.tw/CreditPayment/ExpressCredit?MerchantID=3451959 )   
