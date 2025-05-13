@@ -26,6 +26,9 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="40" /></a>
   <a href="https://discordapp.com/users/741299253200289834" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40"/></a>
+  <a href="https://www.ptt.cc/bbs/SportLottery/M.1746036662.A.0EF.html" target="_blank">
+    <img src="https://github.com/user-attachments/assets/21016b8b-a365-4478-a8b6-82aa74fe144a" alt="ptt" height="40"/></a>
+  
 <!--  
   <a href="mailto:haley80208@gmail.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYumYk-3gD1-vd6bCRYrAr9FeiAHC-BKDHw&s" alt="其他圖示" height="40" />
