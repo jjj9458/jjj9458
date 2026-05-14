@@ -63,9 +63,10 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://p.ecpay.com.tw/B651285" target="_blank">
     <img src="https://payment.ecpay.com.tw/Upload/QRCode/202504/QRCode_f581a638-4852-44ad-b863-b47aff0fa1aa.png" height="70"/></a>
+    <a href="https://p.ecpay.com.tw/6E75B4E" target="_blank">
     <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" /></a>
 <br>
-  <a href="申請中" target="_blank">
+    <a href="https://p.ecpay.com.tw/6E75B4E" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>  
 </p>      
 
